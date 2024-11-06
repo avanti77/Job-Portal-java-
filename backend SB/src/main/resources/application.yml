@@ -1,0 +1,9 @@
+spring:
+  data:
+    mongodb:
+      uri: YOUR_KEY_HERE
+      database: YOUR DATABASE NAME
+
+# Server port configuration
+server:
+  port: 8080
